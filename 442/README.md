@@ -1,7 +1,7 @@
 https://youtu.be/ap22zv1rtmU?si=ywEIUIYlvMM8vz9d \
 https://discord.com/channels/874571610126942208/1228697978408276018/1476713596640559104
 
-date - 25 May 2026\
+date - 25 February 2026\
 clicking method - jitter clicking\
 mouse - LOGITECH G PRO WIRELESS M/N: M-R0070\
 ping - 40-50 ms\
