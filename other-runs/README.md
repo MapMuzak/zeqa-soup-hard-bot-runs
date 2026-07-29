@@ -3,7 +3,7 @@ clicking method - jitter clicking (mostly)\
 mouse - LOGITECH G PRO WIRELESS M/N: M-R0070\
 ping - 27-36 ms\
 server region - AS3\
-XXTHEBOSS25 620 hit combo (zeqa resistance ffa)
+XxTHEBOSS25 620 hit combo (zeqa resistance ffa)
 
 https://drive.google.com/file/d/1z7MY5P7tvl7F4CDGXHkUK7k4vrkhi-Gf/view?usp=drive_link
 
