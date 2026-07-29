@@ -10,7 +10,7 @@ https://drive.google.com/file/d/1z7MY5P7tvl7F4CDGXHkUK7k4vrkhi-Gf/view?usp=drive
 date - 12 January 2025\
 clicking method - jitter clicking (mostly)\
 mouse - LOGITECH G PRO WIRELESS M/N: M-R0070\
-ping
+ping\
 server region - AS\
 hampter 4+ minute combo (hive sumo)
 
