@@ -15,4 +15,5 @@ Under Control Panel > Mouse > Pointer Options (tab)\
 Ensure pointer speed is at 6 (middle) of 11. Also, turn off 'Enhanced pointer precision' and any 'Acceleration'.\
 windows resolution scaling doesnt matter i think\
 https://www.reddit.com/r/pcmasterrace/comments/1c5mw19/does_windows_scaling_affect_games/ \
-nvidia control panel scaling mode set to no scaling
+nvidia control panel scaling mode set to no scaling\
+<img width="245" height="86" alt="Screenshot 2026-07-29 133351" src="https://github.com/user-attachments/assets/401721d2-8879-4e52-ac4f-bc27e5e4c320" />
