@@ -8,7 +8,8 @@
 
 <p align="center">
   <img width="376" height="151" alt="jitterclicking" src="https://github.com/user-attachments/assets/c1148cbf-ee91-4797-91ec-6ffb916f0ec4"><br>
-  jitter clicking - consumes stamina the fastest, therefore the most rewarding
+  jitter clicking<br>
+  consumes stamina the fastest, therefore the most rewarding
 </p>
 
 fov 69.420\
